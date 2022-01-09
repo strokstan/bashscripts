@@ -1,3 +1,3 @@
 # bashscripts
-C-2
+C-main
 
